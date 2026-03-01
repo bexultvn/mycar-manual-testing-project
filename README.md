@@ -41,7 +41,7 @@ Out of Scope:
 
 ## Test Execution Summary
 
-- Total Test Cases: **60**
+- Total Test Cases: **48**
 - Executed: **48**
 - Passed: **48**
 - Failed: **0**
